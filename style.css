@@ -162,8 +162,11 @@ transition: transform .5s;
 
 }
 #profile img:hover{
-  transform: scale(1.65);
+  transform: scale(1.2);
 
+}
+.devimg{
+  border-radius: 100%;
 }
 
 .section-container {
